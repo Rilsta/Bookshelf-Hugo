@@ -1,6 +1,6 @@
 +++
-date = "2016-04-03T09:38:29-07:00"
-draft = true
+date = "2016-04-03T10:27:26-07:00"
+draft = false
 title = "good to read"
 image = "wind-up.jpg"
 +++

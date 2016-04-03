@@ -3,4 +3,5 @@ languageCode = "en-us"
 title = "My New Hugo Site"
 
 [Params]
-  Author = Riley Starnes
+  Author = "Riley Starnes"
+  disqusShortname = <inkodama>

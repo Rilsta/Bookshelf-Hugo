@@ -5,3 +5,5 @@ title = "Ishmael"
 image = "ishmael.jpg"
 
 +++
+
+I read **Ishmael by Daniel Quinn** a long ass time ago, but I remember enjoying it immensely.
